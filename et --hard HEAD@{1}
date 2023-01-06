@@ -1,0 +1,94 @@
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{0}: reset: moving to 091286e
+[33m7a00f2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: checkout: moving from boardprinttemp to main
+[33mccbf6cc[m[33m ([m[1;31morigin/boardprinttemp[m[33m, [m[1;32mboardprinttemp[m[33m)[m HEAD@{2}: checkout: moving from main to boardprinttemp
+[33m7a00f2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: checkout: moving from boardprinttemp to main
+[33mccbf6cc[m[33m ([m[1;31morigin/boardprinttemp[m[33m, [m[1;32mboardprinttemp[m[33m)[m HEAD@{4}: checkout: moving from main to boardprinttemp
+[33m7a00f2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: pull origin boardprinttemp: Merge made by the 'ort' strategy.
+[33m5791bf2[m HEAD@{6}: checkout: moving from boardprinttemp to main
+[33mccbf6cc[m[33m ([m[1;31morigin/boardprinttemp[m[33m, [m[1;32mboardprinttemp[m[33m)[m HEAD@{7}: checkout: moving from main to boardprinttemp
+[33m5791bf2[m HEAD@{8}: checkout: moving from boardprinttemp to main
+[33mccbf6cc[m[33m ([m[1;31morigin/boardprinttemp[m[33m, [m[1;32mboardprinttemp[m[33m)[m HEAD@{9}: checkout: moving from chattingtemp to boardprinttemp
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{10}: checkout: moving from yjrecover to chattingtemp
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{11}: checkout: moving from tempyj to yjrecover
+[33mcbf8b09[m[33m ([m[1;31morigin/tempyj[m[33m, [m[1;32mtempyj[m[33m)[m HEAD@{12}: checkout: moving from yjrecover to tempyj
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{13}: checkout: moving from main to yjrecover
+[33m5791bf2[m HEAD@{14}: checkout: moving from boardprinttemp to main
+[33mccbf6cc[m[33m ([m[1;31morigin/boardprinttemp[m[33m, [m[1;32mboardprinttemp[m[33m)[m HEAD@{15}: commit: 오류 복구
+[33meca34de[m HEAD@{16}: checkout: moving from main to boardprinttemp
+[33m5791bf2[m HEAD@{17}: checkout: moving from boardprinttemp to main
+[33meca34de[m HEAD@{18}: checkout: moving from yjrecover to boardprinttemp
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{19}: checkout: moving from yoojin to yjrecover
+[33mb613315[m[33m ([m[1;31morigin/yoojin[m[33m, [m[1;32myoojin[m[33m)[m HEAD@{20}: checkout: moving from chattingtemp to yoojin
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{21}: checkout: moving from main to chattingtemp
+[33m5791bf2[m HEAD@{22}: checkout: moving from chattingtemp to main
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{23}: checkout: moving from boardprinttemp to chattingtemp
+[33meca34de[m HEAD@{24}: checkout: moving from main to boardprinttemp
+[33m5791bf2[m HEAD@{25}: checkout: moving from tempyj to main
+[33mcbf8b09[m[33m ([m[1;31morigin/tempyj[m[33m, [m[1;32mtempyj[m[33m)[m HEAD@{26}: checkout: moving from yoojin to tempyj
+[33mb613315[m[33m ([m[1;31morigin/yoojin[m[33m, [m[1;32myoojin[m[33m)[m HEAD@{27}: checkout: moving from main to yoojin
+[33m5791bf2[m HEAD@{28}: checkout: moving from chattingtemp to main
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{29}: checkout: moving from yjrecover to chattingtemp
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{30}: checkout: moving from chattingtemp to yjrecover
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{31}: checkout: moving from yjrecover to chattingtemp
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{32}: checkout: moving from main to yjrecover
+[33m5791bf2[m HEAD@{33}: checkout: moving from chattingtemp to main
+[33m091286e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mchattingtemp[m[33m)[m HEAD@{34}: checkout: moving from main to chattingtemp
+[33m5791bf2[m HEAD@{35}: checkout: moving from yjrecover to main
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{36}: checkout: moving from yjrecover to yjrecover
+[33m5a86f86[m[33m ([m[1;32myjrecover[m[33m)[m HEAD@{37}: checkout: moving from main to yjrecover
+[33m5791bf2[m HEAD@{38}: checkout: moving from tempyj to main
+[33mcbf8b09[m[33m ([m[1;31morigin/tempyj[m[33m, [m[1;32mtempyj[m[33m)[m HEAD@{39}: commit: temp
+[33mf04d16a[m HEAD@{40}: checkout: moving from main to tempyj
+[33m5791bf2[m HEAD@{41}: reset: moving to 5791bf2d786ab93aeeeab43964c3dd54d4eee53e
+[33m99de648[m HEAD@{42}: revert: Revert "게시글 출력"
+[33m5791bf2[m HEAD@{43}: checkout: moving from tempyj to main
+[33mf04d16a[m HEAD@{44}: reset: moving to HEAD
+[33mf04d16a[m HEAD@{45}: reset: moving to f04d16afcf5cf86f9331da9758d385fe1aa236e4
+[33m8d00a63[m HEAD@{46}: commit: temp
+[33mf04d16a[m HEAD@{47}: reset: moving to f04d16afcf5cf86f9331da9758d385fe1aa236e4
+[33m9ad15fe[m HEAD@{48}: commit: trash
+[33mf04d16a[m HEAD@{49}: checkout: moving from tempyj to tempyj
+[33mf04d16a[m HEAD@{50}: checkout: moving from main to tempyj
+[33m5791bf2[m HEAD@{51}: checkout: moving from tempyj to main
+[33mf04d16a[m HEAD@{52}: commit: 임시
+[33m5791bf2[m HEAD@{53}: checkout: moving from main to tempyj
+[33m5791bf2[m HEAD@{54}: pull origin main: Fast-forward
+[33meca34de[m HEAD@{55}: commit: 게시글 출력
+[33m66f7503[m HEAD@{56}: commit: 시간표완성
+[33mb701fbb[m HEAD@{57}: commit: 채팅 레이아웃 변경
+[33m7b851be[m HEAD@{58}: commit: 시간표 수정
+[33m499b3b1[m HEAD@{59}: commit: 시간표 DB연결
+[33md61be21[m HEAD@{60}: commit: search tap 변경 및 studyrecruit write, 글불러오기
+[33m470084f[m HEAD@{61}: commit: study quick 레이아웃변경 및 스터디 게시글 페이지 작성
+[33m552f46d[m HEAD@{62}: commit: 스터디 게시판 글쓰기
+[33mcb86a4a[m HEAD@{63}: commit: 검색 수정 및 스터디와 연락처 검색추가
+[33m86b186b[m HEAD@{64}: commit: 시간표 연결
+[33m371f72f[m HEAD@{65}: commit: 시간표
+[33m784fad8[m HEAD@{66}: commit: LectureList Setting버튼 이동 오류 해결
+[33m7b8941b[m HEAD@{67}: commit: 메인게시판 뒤로가기 버튼 삭제
+[33m5dbc512[m HEAD@{68}: commit: 모든 게시판 검색 연결
+[33mb613315[m[33m ([m[1;31morigin/yoojin[m[33m, [m[1;32myoojin[m[33m)[m HEAD@{69}: merge yoojin: Fast-forward
+[33maaf1e59[m HEAD@{70}: checkout: moving from yoojin to main
+[33mb613315[m[33m ([m[1;31morigin/yoojin[m[33m, [m[1;32myoojin[m[33m)[m HEAD@{71}: checkout: moving from main to yoojin
+[33maaf1e59[m HEAD@{72}: checkout: moving from yoojin to main
+[33mb613315[m[33m ([m[1;31morigin/yoojin[m[33m, [m[1;32myoojin[m[33m)[m HEAD@{73}: commit: 검색 기능 완성
+[33maaf1e59[m HEAD@{74}: pull origin +main: Fast-forward
+[33md301d89[m HEAD@{75}: checkout: moving from main to yoojin
+[33maaf1e59[m HEAD@{76}: commit: 자유게시판 글쓰기 연결
+[33mb1e0281[m HEAD@{77}: commit: 검색창 추가
+[33m642a08b[m HEAD@{78}: commit: 2022 2학기 강의목록 데이터 삽입
+[33m5782125[m HEAD@{79}: commit: schoolCalender_yoojin
+[33m498ee9c[m HEAD@{80}: commit: lib_seat_yoojin
+[33m254573c[m HEAD@{81}: pull origin main: Merge made by the 'ort' strategy.
+[33m15c8fcc[m HEAD@{82}: commit: resize and lib
+[33m97fd3dc[m HEAD@{83}: commit: debug label delete
+[33m11c2d83[m HEAD@{84}: commit: yoojin_whyHomeDisappeard
+[33m2ac0eb9[m HEAD@{85}: pull origin main: Fast-forward
+[33mf7c5f81[m HEAD@{86}: pull --ff --progress origin: Fast-forward
+[33mb179413[m HEAD@{87}: commit: recruit firebase yoojin
+[33md2602bf[m HEAD@{88}: reset: moving to origin/main
+[33md2602bf[m HEAD@{89}: reset: moving to origin/main
+[33mc00d307[m HEAD@{90}: checkout: moving from yoojin to main
+[33md301d89[m HEAD@{91}: checkout: moving from main to yoojin
+[33mc00d307[m HEAD@{92}: pull --ff --progress origin: Fast-forward
+[33m333c815[m HEAD@{93}: pull --ff --prog

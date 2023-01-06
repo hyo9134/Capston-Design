@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123866180255",
+    "firebase_url": "https://hanmodumo-ddc14-default-rtdb.firebaseio.com",
+    "project_id": "hanmodumo-ddc14",
+    "storage_bucket": "hanmodumo-ddc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123866180255:android:ceb208bc4c4c280b52d0aa",
+        "android_client_info": {
+          "package_name": "com.example.hanmodumo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123866180255-lnac4pq1stp01jofvrkqpdpnsl39qk8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYEqwF-dceCRg2dL7H8f2mHpFnmJePcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123866180255-lnac4pq1stp01jofvrkqpdpnsl39qk8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

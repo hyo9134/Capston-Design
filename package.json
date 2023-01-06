@@ -1,0 +1,33 @@
+{
+  "name": "rlask",
+  "version": "1.0.0",
+  "description": "Hanmodumo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yujin",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.8.1",
+    "firebase-admin": "^10.2.0",
+    "firebase-export": "^0.0.2",
+    "firebase-import": "^2.2.2",
+    "firestore-export-import": "^1.1.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanmodumo/Hanmodumo.git"
+  },
+  "keywords": [
+    "npminit"
+  ],
+  "bugs": {
+    "url": "https://github.com/Hanmodumo/Hanmodumo/issues"
+  },
+  "homepage": "https://github.com/Hanmodumo/Hanmodumo#readme"
+}
